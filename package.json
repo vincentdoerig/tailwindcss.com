@@ -41,7 +41,7 @@
     "next": "^10.0.1",
     "postcss": "^8.1.7",
     "postcss-nested": "^4.2.3",
-    "prismjs": "^1.20.0",
+    "prismjs": "^1.21.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-intersection-observer": "^8.29.0",
